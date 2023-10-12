@@ -1,9 +1,9 @@
-# The VM and MySQL setup process
-# The rationale behind your database schema
-# Steps and challenges from the database migration process
-# Documented code errors and your troubleshooting attempts
+## The VM and MySQL setup process
+## The rationale behind your database schema
+## Steps and challenges from the database migration process
+## Documented code errors and your troubleshooting attempts
 Connect MySQL workbench to Azure VM MySQL server 
-# Any other relevant documentation or instructions
+## Any other relevant documentation or instructions
 
 
 
